@@ -4,6 +4,7 @@ public abstract class SearchTeam {
 	private String teamName;
 	private int xPos, yPos;
 	private double xVelocity, yVelocity;
+	private Direction direction;
 	
 	
 	public SearchTeam(){
