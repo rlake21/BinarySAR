@@ -1,4 +1,4 @@
-package SAR;
+package src.SAR;
 
 public class FieldCell  extends GridCell{
 

@@ -1,4 +1,4 @@
-package SAR;
+package src.SAR;
 
 public abstract class SearchTeam {
 	private String teamName;

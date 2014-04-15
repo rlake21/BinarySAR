@@ -1,4 +1,4 @@
-package SAR;
+package src.SAR;
 
 import java.awt.Color;
 
